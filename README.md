@@ -10,3 +10,6 @@ para levantar api-rest fake
 
 ### npm start
 para correr aplicacion React
+
+### tips
+si hay problemas al momento de levantar la app correr con la version 14 de node
