@@ -1,74 +1,9 @@
 {
   "products": [
     {
-      "name": "Buenas noches",
-      "price": "12",
+      "name": "Product 1",
+      "price": "234",
       "id": 59342
-    },
-    {
-      "id": 52569,
-      "name": "PROBANDO 7",
-      "price": "567"
-    },
-    {
-      "id": 92614,
-      "name": "buenos dias",
-      "price": "345"
-    },
-    {
-      "name": "sdsds",
-      "price": "989",
-      "id": 87390
-    },
-    {
-      "name": "pago mas",
-      "price": "454",
-      "id": 62803
-    },
-    {
-      "id": 42959,
-      "name": "dsdsds",
-      "price": "232323"
-    },
-    {
-      "id": 87771,
-      "name": "dsdsdsd",
-      "price": "2323"
-    },
-    {
-      "id": 42984,
-      "name": "ssdsd",
-      "price": "234"
-    },
-    {
-      "id": 96282,
-      "name": "23232323",
-      "price": "2323"
-    },
-    {
-      "id": 23326,
-      "name": "3232323",
-      "price": "3434"
-    },
-    {
-      "name": "32323",
-      "price": "34",
-      "id": 57831
-    },
-    {
-      "id": 857,
-      "name": "Emerald2022",
-      "price": "234"
-    },
-    {
-      "id": 54355,
-      "name": "Pagos ya!",
-      "price": "12"
-    },
-    {
-      "name": "Emerald2022",
-      "price": "4323",
-      "id": 53632
     }
   ]
 }
