@@ -1,12 +1,12 @@
 
 
-## Available Scripts
+## CRUD CANVIA
 
-# npm install
+### npm install
 para instalar las dependencias
 
-# npm run fake-api 
+### npm run fake-api 
 para levantar api-rest fake
 
-# npm start
+### npm start
 para correr aplicacion React
