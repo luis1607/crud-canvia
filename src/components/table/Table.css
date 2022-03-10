@@ -1,0 +1,51 @@
+.container-table{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tableOrders{
+    width: 80%;
+    border-collapse: collapse;
+    margin-bottom: 2em;
+  }
+  
+  .tableOrders__header{
+    background: wheat;
+    border: none
+  }
+  
+  .tableOrders__header--cell{
+    padding: 1em 2em;
+    margin: 0;
+  }
+  .tableOrders__tr{
+    border: 1px solid wheat;
+  }
+  
+  .tableOrders__body--cell{
+    text-align: center;
+    padding: 1em 2em;
+    
+  }
+
+  .container-buttons{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 100%;
+      padding: 1em 2em;
+  }
+  .btn-table{
+      padding: 5px;
+      background-color: wheat;
+      border: 1px solid wheat;
+      cursor: pointer;
+  }
+
+  h3{
+      margin-top: 40px;
+  }
+
+  

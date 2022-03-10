@@ -1,0 +1,17 @@
+.container-pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.btn-pagination{
+    border: 1px solid wheat;
+    background-color: wheat;
+    padding: 7px;
+    cursor: pointer;
+}
+
+.number-pagination{
+    font-weight: bold;
+
+}

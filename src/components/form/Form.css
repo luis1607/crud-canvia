@@ -1,0 +1,42 @@
+
+.container-form{
+    padding: 40px 0;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container-form-edit{
+    width: 100%;
+    padding: 0 30px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    width: 30%;
+    /* justify-content: center; */
+}
+
+input{
+    padding: 6px;
+}
+
+label{
+    text-align: left;
+}
+
+.btn-submit{
+ background-color: wheat;
+ cursor: pointer;
+ margin-top: 20px;
+ padding: 12px;
+ border: 1px solid wheat ;
+}
+
+@media  screen and (max-width:900px) {
+    form{
+        width:80%
+    }
+}
